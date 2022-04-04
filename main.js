@@ -7,3 +7,4 @@ This is another update
 
 This is another quick update
 
+THIS IS FEATURE 2
